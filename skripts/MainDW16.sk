@@ -1,0 +1,4 @@
+on sneak toggle:
+	execute console command "/npc sneak"
+every tick:
+    execute console command "/minecraft:tp e90aef22-d695-2f8c-8c42-93fb7761d6c9 ThePowerbute"
